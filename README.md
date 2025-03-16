@@ -1,7 +1,3 @@
-Here's a polished and professional description for your GitHub repository:  
-
----
-
 # **Privacy Protector: Anti-Screen Watching & Remote Access Blocker**  
 
 A Python script that **prevents screen watching, remote access, and unauthorized monitoring** by detecting screen recording software, disabling screenshots, and blocking suspicious connections in real time.  
